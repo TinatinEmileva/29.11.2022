@@ -33,3 +33,35 @@ background-color: aqua;
   align-items: baseline;
   justify-content: space-between;
 }
+
+
+
+.example-2{
+  font-weight: 550;
+}
+.example-1 a{
+  text-decoration: none;
+  border-radius: 10px;
+  display: block;
+  padding: 15px 15px;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.example-1 ul{
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.example-1 a:hover{
+color: rgba(27, 185, 185, 0.521);
+background-color:red ;
+}
+.example-2{
+  max-width: 987px;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
